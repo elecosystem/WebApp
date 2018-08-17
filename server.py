@@ -67,6 +67,11 @@ class Root(object):
             img_name = img_name[-1]
             return head+" "+str(exlist[int(value)].id + 1) + "</h1>" +"<p> </<p>"+"<img class=\"mx-auto text-center\" src=images/"+str(img_name)+" height=\"220\ witdh=\"520\">"+"<p> </p>"+ exlist[int(value)].expl
 
+        @cherrypy.expose
+        def Register(self,value):
+
+
+
 if __name__ == "__main__":
     conf = {'/images': {'tools.staticdir.on': True,
                           'tools.staticdir.dir': os.path.join('/home/ele/resources/ExerciseImage')}}
