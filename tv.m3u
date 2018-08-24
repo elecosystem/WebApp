@@ -1,0 +1,1135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 4K ( OFF TEMP.)" tvg-logo="http://originaliptv.net/logotipos/RTP_4K.png" group-title="PORTUGAL",RTP 1 4K ( OFF TEMP.)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10371.ts
+#EXTINF:-1 tvg-id="RTP 1 HD" tvg-name="RTP 1 HD" tvg-logo="http://originaliptv.net//logotipos/RTP%201%20HD%20logo.png" group-title="PORTUGAL",RTP 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/126.ts
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="RTP 1" tvg-logo="http://originaliptv.net//logotipos/RTP%201%20HD%20logo.png" group-title="PORTUGAL",RTP 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/576.ts
+#EXTINF:-1 tvg-id="RTP2" tvg-name="RTP 2 HD" tvg-logo="http://originaliptv.net//logotipos/RTP%202%20logo.png" group-title="PORTUGAL",RTP 2 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/4339.ts
+#EXTINF:-1 tvg-id="RTP 2 HD" tvg-name="RTP 2" tvg-logo="http://originaliptv.net//logotipos/RTP%202%20logo.png" group-title="PORTUGAL",RTP 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/124.ts
+#EXTINF:-1 tvg-id="SIC HD" tvg-name="SIC HD" tvg-logo="http://originaliptv.net//logotipos/SIC%20HD%20logo.png" group-title="PORTUGAL",SIC HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/122.ts
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://originaliptv.net//logotipos/SIC%20HD%20logo.png" group-title="PORTUGAL",SIC
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/577.ts
+#EXTINF:-1 tvg-id="TVI HD" tvg-name="TVI HD" tvg-logo="http://originaliptv.net//logotipos/TVI%20logo.png" group-title="PORTUGAL",TVI HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/120.ts
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://originaliptv.net//logotipos/TVI%20logo.png" group-title="PORTUGAL",TVI
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/578.ts
+#EXTINF:-1 tvg-id="SIC Noticias HD" tvg-name="SIC Noticias" tvg-logo="http://originaliptv.net/logotipos/SIC_NOTICIAS.jpg" group-title="PORTUGAL",SIC Noticias
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/110.ts
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="TVI 24" tvg-logo="http://originaliptv.net/logotipos/TVI%2024%20logo.png" group-title="PORTUGAL",TVI 24
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/109.ts
+#EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="RTP 3" tvg-logo="http://originaliptv.net/logotipos/RTP%203%20logo.png" group-title="PORTUGAL",RTP 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/111.ts
+#EXTINF:-1 tvg-id="CMTV HD" tvg-name="CMTV HD" tvg-logo="http://originaliptv.net/logotipos/CM%20TV%20logo.png" group-title="PORTUGAL",CMTV HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/575.ts
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://originaliptv.net/logotipos/CM%20TV%20logo.png" group-title="PORTUGAL",CMTV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/108.ts
+#EXTINF:-1 tvg-id="SIC Radical" tvg-name="SIC Radical" tvg-logo="http://originaliptv.net/logotipos/SIC_RADICAL.png" group-title="PORTUGAL",SIC Radical
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/117.ts
+#EXTINF:-1 tvg-id="SIC Mulher" tvg-name="SIC Mulher" tvg-logo="http://originaliptv.net/logotipos/SIC_MULHER_1.png" group-title="PORTUGAL",SIC Mulher
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/116.ts
+#EXTINF:-1 tvg-id="SIC Caras" tvg-name="SIC Caras" tvg-logo="http://originaliptv.net/logotipos/SIC_CARAS_1.png" group-title="PORTUGAL",SIC Caras
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/118.ts
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://originaliptv.net/logotipos/TV_%20FICçAO.jpg" group-title="PORTUGAL",TVI Ficção
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/115.ts
+#EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="http://originaliptv.net/logotipos/TVI_REALITY.jpg" group-title="PORTUGAL",TVI Reality
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3241.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Mosaico" tvg-logo="" group-title="PORTUGAL",TVI Reality Mosaico
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10512.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 1" tvg-logo="" group-title="PORTUGAL",TVI Reality Camara Exclusiva 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10511.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 2" tvg-logo="" group-title="PORTUGAL",TVI Reality Camara Exclusiva 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10510.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 3" tvg-logo="" group-title="PORTUGAL",TVI Reality Camara Exclusiva 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10509.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camara Exclusiva 4" tvg-logo="" group-title="PORTUGAL",TVI Reality Camara Exclusiva 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10508.ts
+#EXTINF:-1 tvg-id="TV Globo" tvg-name="TV Globo" tvg-logo="http://originaliptv.net/logotipos/GLOBO.jpg" group-title="PORTUGAL",TV Globo
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/707.ts
+#EXTINF:-1 tvg-id="TV Globo Premium" tvg-name="TV Globo Now" tvg-logo="http://originaliptv.net/logotipos/GLOBO_PREMIUM.jpg" group-title="PORTUGAL",TV Globo Now
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/706.ts
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="TV Record HD" tvg-logo="http://originaliptv.net/logotipos/RECORD.jpg" group-title="PORTUGAL",TV Record HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/705.ts
+#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="http://originaliptv.net/logotipos/cbs_reality.jpg" group-title="PORTUGAL",CBS Reality
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/32.ts
+#EXTINF:-1 tvg-id="RTP Memoria" tvg-name="RTP Memoria" tvg-logo="http://originaliptv.net/logotipos/RTP_MERMORIA.png" group-title="PORTUGAL",RTP Memoria
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/119.ts
+#EXTINF:-1 tvg-id="Porto Canal" tvg-name="Porto Canal" tvg-logo="http://originaliptv.net/logotipos/PORTO_CANAL_1.png" group-title="PORTUGAL",Porto Canal
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/113.ts
+#EXTINF:-1 tvg-id="Canal Q" tvg-name="Canal Q" tvg-logo="http://originaliptv.net/logotipos/CANAL_Q.jpg" group-title="PORTUGAL",Canal Q
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/112.ts
+#EXTINF:-1 tvg-id="RTP Acores" tvg-name="RTP Acores" tvg-logo="http://originaliptv.net/logotipos/RTP_acores.jpg" group-title="PORTUGAL",RTP Acores
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3244.ts
+#EXTINF:-1 tvg-id="RTP Africa" tvg-name="RTP Africa" tvg-logo="http://originaliptv.net/logotipos/RTP_AFRICA.png" group-title="PORTUGAL",RTP Africa
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3243.ts
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="http://originaliptv.net/logotipos/RTP_MADEIRA.jpg" group-title="PORTUGAL",RTP Madeira
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3242.ts
+#EXTINF:-1 tvg-id="TVC 1 HD" tvg-name="TVC 1 HD" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_1.jpg" group-title="PORTUGAL",TVC 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/69.ts
+#EXTINF:-1 tvg-id="TVCine 1" tvg-name="TVCine 1" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_1.jpg" group-title="PORTUGAL",TVCine 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2124.ts
+#EXTINF:-1 tvg-id="TVC 2 HD" tvg-name="TVC 2 HD" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_2.png" group-title="PORTUGAL",TVC 2 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/67.ts
+#EXTINF:-1 tvg-id="TVCine 2" tvg-name="TVCine 2" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_2.png" group-title="PORTUGAL",TVCine 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2123.ts
+#EXTINF:-1 tvg-id="TVC 3 HD" tvg-name="TVC 3 HD" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_3.png" group-title="PORTUGAL",TVC 3 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/65.ts
+#EXTINF:-1 tvg-id="TVCine 3" tvg-name="TVCine 3" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_3.png" group-title="PORTUGAL",TVCine 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2122.ts
+#EXTINF:-1 tvg-id="TVC 4 HD" tvg-name="TVC 4 HD" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_4.jpg" group-title="PORTUGAL",TVC 4 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/63.ts
+#EXTINF:-1 tvg-id="TVCine 4" tvg-name="TVCine 4" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_4.jpg" group-title="PORTUGAL",TVCine 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2121.ts
+#EXTINF:-1 tvg-id="TV Series HD" tvg-name="TV Series HD" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_SERIES.png" group-title="PORTUGAL",TV Series HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/61.ts
+#EXTINF:-1 tvg-id="Tv Series" tvg-name="Tv Series" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_SERIES.png" group-title="PORTUGAL",Tv Series
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3193.ts
+#EXTINF:-1 tvg-id="Hollywood HD" tvg-name="Hollywood HD" tvg-logo="http://originaliptv.net/logotipos/CANAL_HOLLYWOOD_HD.png" group-title="PORTUGAL",Hollywood HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/59.ts
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="Hollywood" tvg-logo="http://originaliptv.net/logotipos/CANAL_HOLLYWOOD_HD.png" group-title="PORTUGAL",Hollywood
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3182.ts
+#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://originaliptv.net/logotipos/Cinemundo%20logo%201.png" group-title="PORTUGAL",Cinemundo
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/58.ts
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SyFy HD" tvg-logo="http://originaliptv.net/logotipos/photo.jpg" group-title="PORTUGAL",SyFy HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/4004.ts
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://originaliptv.net/logotipos/photo.jpg" group-title="PORTUGAL",SyFy
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/43.ts
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://originaliptv.net/logotipos/AMC.png" group-title="PORTUGAL",AMC HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/57.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://originaliptv.net/logotipos/AMC.png" group-title="PORTUGAL",AMC
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7462.ts
+#EXTINF:-1 tvg-id="FoxMovies" tvg-name="FoxMovies" tvg-logo="http://originaliptv.net/logotipos/FOX_MOVIES_HD.png" group-title="PORTUGAL",FoxMovies
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/50.ts
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://originaliptv.net/logotipos/AXN.png" group-title="PORTUGAL",AXN HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/48.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://originaliptv.net/logotipos/AXN.png" group-title="PORTUGAL",AXN
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3248.ts
+#EXTINF:-1 tvg-id="AXN Black HD" tvg-name="AXN Black HD" tvg-logo="http://originaliptv.net/logotipos/AXN_BLAC.jpg" group-title="PORTUGAL",AXN Black HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/46.ts
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Black" tvg-logo="http://originaliptv.net/logotipos/AXN_BLAC.jpg" group-title="PORTUGAL",AXN Black
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3246.ts
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN White HD" tvg-logo="http://originaliptv.net/logotipos/AXN_WHITE.png" group-title="PORTUGAL",AXN White HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/44.ts
+#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://originaliptv.net/logotipos/AXN_WHITE.png" group-title="PORTUGAL",AXN White
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3245.ts
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="Fox HD" tvg-logo="http://originaliptv.net/logotipos/FOX.png" group-title="PORTUGAL",Fox HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/54.ts
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-name="FoxLife HD" tvg-logo="http://originaliptv.net/logotipos/FOX_LIFE_1..png" group-title="PORTUGAL",FoxLife HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/51.ts
+#EXTINF:-1 tvg-id="FoxComedy" tvg-name="FoxComedy" tvg-logo="http://originaliptv.net/logotipos/FOX_COMEDY.png" group-title="PORTUGAL",FoxComedy
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/53.ts
+#EXTINF:-1 tvg-id="FoxCrime HD" tvg-name="FoxCrime HD" tvg-logo="http://originaliptv.net/logotipos/FOX_CRIME.png" group-title="PORTUGAL",FoxCrime HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/52.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://originaliptv.net/logotipos/DISCOVERY_CHANNEL_1.png" group-title="PORTUGAL",Discovery Channel
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/40.ts
+#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="Discovery Showcase HD" tvg-logo="http://originaliptv.net/logotipos/DISCOVERY_SHOWCASE.jpg" group-title="PORTUGAL",Discovery Showcase HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/39.ts
+#EXTINF:-1 tvg-id="National Geo Wild HD" tvg-name="National Geo Wild HD" tvg-logo="http://originaliptv.net/logotipos/NAT_GEO_WILD.png" group-title="PORTUGAL",National Geo Wild HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/36.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://originaliptv.net/logotipos/NATIONAL_GEOGRAPHIC_CHANNEL.png" group-title="PORTUGAL",National Geographic HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/38.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia" tvg-logo="http://originaliptv.net/logotipos/HISTORY.jpg" group-title="PORTUGAL",Historia
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/30.ts
+#EXTINF:-1 tvg-id="Odisseia" tvg-name="Odisseia" tvg-logo="http://originaliptv.net/logotipos/ODISSEIA.jpg" group-title="PORTUGAL",Odisseia
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/29.ts
+#EXTINF:-1 tvg-id="E ! Enterteinement" tvg-name="E ! Enterteinement" tvg-logo="http://originaliptv.net/logotipos/e!_enterttainment.png" group-title="PORTUGAL",E ! Enterteinement
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/832.ts
+#EXTINF:-1 tvg-id="Crime Investigation" tvg-name="Crime Investigation" tvg-logo="http://originaliptv.net/logotipos/CINE_INVESTIGATION.jpg" group-title="PORTUGAL",Crime Investigation
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2078.ts
+#EXTINF:-1 tvg-id="AandE" tvg-name="BLAZE" tvg-logo="http://originaliptv.net/logotipos/A&E.jpg" group-title="PORTUGAL",BLAZE
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/31.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://originaliptv.net/logotipos/TLC.png" group-title="PORTUGAL",TLC
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/35.ts
+#EXTINF:-1 tvg-id="Caçavision" tvg-name="Caçavision" tvg-logo="http://originaliptv.net/logotipos/CAçAVISION.png" group-title="PORTUGAL",Caçavision
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/34.ts
+#EXTINF:-1 tvg-id="Fine Living Network HD" tvg-name="Fine Living Network HD" tvg-logo="" group-title="PORTUGAL",Fine Living Network HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6263.ts
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel" tvg-logo="http://originaliptv.net/logotipos/TRAVEL_CHANNEL.png" group-title="PORTUGAL",Travel Channel
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/33.ts
+#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca" tvg-logo="http://originaliptv.net/logotipos/CAçA_E_PESCA.png" group-title="PORTUGAL",Caça e Pesca
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/75.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cançao Nova" tvg-logo="" group-title="PORTUGAL",Cançao Nova
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7463.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Fatima" tvg-logo="" group-title="PORTUGAL",TV Fatima
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7468.ts
+#EXTINF:-1 tvg-id="" tvg-name="KURIAKOS TV" tvg-logo="" group-title="PORTUGAL",KURIAKOS TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7465.ts
+#EXTINF:-1 tvg-id="MCS Lifestyle" tvg-name="My Cuisine" tvg-logo="http://originaliptv.net/logotipos/mycousine.jpg" group-title="PORTUGAL",My Cuisine
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2101.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://originaliptv.net/logotipos/food_network.png" group-title="PORTUGAL",Food Network
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/56.ts
+#EXTINF:-1 tvg-id="24 Kitchen HD" tvg-name="24 Kitchen HD" tvg-logo="http://originaliptv.net/logotipos/24_KITCHEN_HD.png" group-title="PORTUGAL",24 Kitchen HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://originaliptv.net/logotipos/redbulltv.png" group-title="PORTUGAL",Red Bull TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10426.ts
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="http://originaliptv.net/logotipos/A_BOLA.jpg" group-title="PORTUGAL",A Bola TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/78.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4K ( OFF TEMP. )" tvg-logo="http://originaliptv.net/logotipos/sporttv4k.png" group-title="PORTUGAL",SPORT TV 4K ( OFF TEMP. )
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10372.ts
+#EXTINF:-1 tvg-id="Sport TV + Full HD" tvg-name="Sport TV + Full HD (Temp. Sd)" tvg-logo="http://originaliptv.net/logotipos/sport_tv+.png" group-title="PORTUGAL",Sport TV + Full HD (Temp. Sd)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/2120.ts
+#EXTINF:-1 tvg-id="Sport TV + HD" tvg-name="Sport TV + HD" tvg-logo="http://originaliptv.net/logotipos/sport_tv+.png" group-title="PORTUGAL",Sport TV + HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/629.ts
+#EXTINF:-1 tvg-id="Sport TV +" tvg-name="Sport TV +" tvg-logo="http://originaliptv.net/logotipos/sport_tv+.png" group-title="PORTUGAL",Sport TV +
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/106.ts
+#EXTINF:-1 tvg-id="Sport TV 1 Full HD" tvg-name="Sport TV 1 Full HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV1_HD.png" group-title="PORTUGAL",Sport TV 1 Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/103.ts
+#EXTINF:-1 tvg-id="SPORT TV 1 HD EXTRA" tvg-name="SPORT TV 1 EXTRA" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV1_HD.png" group-title="PORTUGAL",SPORT TV 1 EXTRA
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/4658.ts
+#EXTINF:-1 tvg-id="Sport TV 1 HD" tvg-name="Sport TV 1 HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV1_HD.png" group-title="PORTUGAL",Sport TV 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/104.ts
+#EXTINF:-1 tvg-id="SPTV_1" tvg-name="SPORT TV 1" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV1.png" group-title="PORTUGAL",SPORT TV 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/579.ts
+#EXTINF:-1 tvg-id="Sport TV 2 Full HD" tvg-name="Sport TV 2 Full HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_2_HD.png" group-title="PORTUGAL",Sport TV 2 Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/100.ts
+#EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="Sport TV 2 HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_2_HD.png" group-title="PORTUGAL",Sport TV 2 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/102.ts
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="SPORT TV 2" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV2.jpg" group-title="PORTUGAL",SPORT TV 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/580.ts
+#EXTINF:-1 tvg-id="Sport TV 3 Full HD" tvg-name="Sport TV 3 Full HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_3_HD.png" group-title="PORTUGAL",Sport TV 3 Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/97.ts
+#EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Sport TV 3 HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_3_HD.png" group-title="PORTUGAL",Sport TV 3 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/98.ts
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="SPORT TV 3" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV3.jpg" group-title="PORTUGAL",SPORT TV 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/581.ts
+#EXTINF:-1 tvg-id="SportTV 4 Full HD" tvg-name="SportTV 4 Full HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV4_HD.png" group-title="PORTUGAL",SportTV 4 Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3251.ts
+#EXTINF:-1 tvg-id="Sport TV 4 HD" tvg-name="Sport TV 4 HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV4_HD.png" group-title="PORTUGAL",Sport TV 4 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/95.ts
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="SPORT TV 4" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_4.jpg" group-title="PORTUGAL",SPORT TV 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/582.ts
+#EXTINF:-1 tvg-id="SportTV 5 Full HD" tvg-name="SportTV 5 Full HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV5_HD.png" group-title="PORTUGAL",SportTV 5 Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3250.ts
+#EXTINF:-1 tvg-id="Sport TV 5 HD" tvg-name="Sport TV 5 HD" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV5_HD.png" group-title="PORTUGAL",Sport TV 5 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/93.ts
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="SPORT TV 5" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV5_1.png" group-title="PORTUGAL",SPORT TV 5
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/583.ts
+#EXTINF:-1 tvg-id="Benfica TV Full HD" tvg-name="Benfica TV Full HD" tvg-logo="http://originaliptv.net/logotipos/BENFICA%20TV.png" group-title="PORTUGAL",Benfica TV Full HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/90.ts
+#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV HD" tvg-logo="http://originaliptv.net/logotipos/BENFICA%20TV.png" group-title="PORTUGAL",Benfica TV HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/91.ts
+#EXTINF:-1 tvg-id="BTV" tvg-name="BENFICA TV" tvg-logo="http://originaliptv.net/logotipos/BENFICA%20TV.png" group-title="PORTUGAL",BENFICA TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/584.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10502.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10501.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 HD (LIVE EVENT)" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD (LIVE EVENT)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10500.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4 HD (LIVE EVENT)" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD (LIVE EVENT)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10499.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5 HD (LIVE EVENT)" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD (LIVE EVENT)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10498.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6 HD (LIVE EVENT)" tvg-logo="http://www.originaliptv.net/logotipos/elevensports1.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD (LIVE EVENT)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10497.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="http://originaliptv.net/logotipos/EUROSPORT_1.jpg" group-title="PORTUGAL",Eurosport 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/87.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EuroSport 1" tvg-logo="" group-title="PORTUGAL",EuroSport 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7778.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://originaliptv.net/logotipos/EUROSPORT_2.jpg" group-title="PORTUGAL",Eurosport 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/86.ts
+#EXTINF:-1 tvg-id="Sporting TV HD" tvg-name="Sporting TV HD" tvg-logo="http://originaliptv.net/logotipos/SPORTING_TV.png" group-title="PORTUGAL",Sporting TV HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/74.ts
+#EXTINF:-1 tvg-id="PFC HD" tvg-name="PFC HD" tvg-logo="http://originaliptv.net/logotipos/PFC.jpg" group-title="PORTUGAL",PFC HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV" tvg-logo="" group-title="PORTUGAL",REAL MADRID TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7469.ts
+#EXTINF:-1 tvg-id="Fight Network HD" tvg-name="Fight Network HD" tvg-logo="http://originaliptv.net/logotipos/Fightbox%20HD%20logo.png" group-title="PORTUGAL",Fight Network HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/80.ts
+#EXTINF:-1 tvg-id="Kombat Sports" tvg-name="Kombat Sports" tvg-logo="http://originaliptv.net/logotipos/KOMBAT_SPORT.png" group-title="PORTUGAL",Kombat Sports
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/81.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL NOW" tvg-logo="" group-title="PORTUGAL",NFL NOW
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7655.ts
+#EXTINF:-1 tvg-id="NBA HD" tvg-name="NBA HD" tvg-logo="http://originaliptv.net/logotipos/NBA%20TV%20logo.png" group-title="PORTUGAL",NBA HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/89.ts
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="Motorvision HD" tvg-logo="http://originaliptv.net/logotipos/MOTORVISION.jpg" group-title="PORTUGAL",Motorvision HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/76.ts
+#EXTINF:-1 tvg-id="Motors TV" tvg-name="Motors Sport TV" tvg-logo="http://originaliptv.net/logotipos/MOTORS_TV.png" group-title="PORTUGAL",Motors Sport TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/77.ts
+#EXTINF:-1 tvg-id="Fuel TV" tvg-name="Fuel TV" tvg-logo="http://originaliptv.net/logotipos/FUEL_TV.png" group-title="PORTUGAL",Fuel TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/83.ts
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="http://originaliptv.net/logotipos/TOROS_TV.jpg" group-title="PORTUGAL",Toros TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/72.ts
+#EXTINF:-1 tvg-id="SIC Kids" tvg-name="SIC Kids" tvg-logo="http://originaliptv.net/logotipos/SIC_K_1.png" group-title="PORTUGAL",SIC Kids
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9.ts
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="http://originaliptv.net/logotipos/JIMJAM.jpg" group-title="PORTUGAL",JimJam
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/15.ts
+#EXTINF:-1 tvg-id="Panda Biggs" tvg-name="Panda Biggs" tvg-logo="http://originaliptv.net/logotipos/PANDA_BIGGS.png" group-title="PORTUGAL",Panda Biggs
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/14.ts
+#EXTINF:-1 tvg-id="Panda HD" tvg-name="Panda HD" tvg-logo="http://originaliptv.net/logotipos/CANAL_PANDA_1.png" group-title="PORTUGAL",Panda HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/13.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://originaliptv.net/logotipos/CARTOON_NETWORK.png" group-title="PORTUGAL",Cartoon Network
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://originaliptv.net/logotipos/DISNEY_CHANNEL.png" group-title="PORTUGAL",Disney Channel
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/11.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://originaliptv.net/logotipos/BABY_TV.jpg" group-title="PORTUGAL",Baby TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/12.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://originaliptv.net/logotipos/DISNEY_JUNIOR.png" group-title="PORTUGAL",Disney Junior
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://originaliptv.net/logotipos/NICKELODEON.png" group-title="PORTUGAL",Nickelodeon
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/8.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="" group-title="PORTUGAL",Fashion TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10506.ts
+#EXTINF:-1 tvg-id="Afro Music" tvg-name="Afro Music" tvg-logo="http://originaliptv.net/logotipos/Afro%20Music%20Channel%20logo%203.png" group-title="PORTUGAL",Afro Music
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/18.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV" tvg-logo="" group-title="PORTUGAL",Dog TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10507.ts
+#EXTINF:-1 tvg-id="Trace Urban" tvg-name="Trace Urban" tvg-logo="http://originaliptv.net/logotipos/traceur.jpg" group-title="PORTUGAL",Trace Urban
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3183.ts
+#EXTINF:-1 tvg-id="NRJ Hits TV" tvg-name="NRJ Hits TV" tvg-logo="http://originaliptv.net/logotipos/nrj-hits-tv.png" group-title="PORTUGAL",NRJ Hits TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/16.ts
+#EXTINF:-1 tvg-id="MCM Top" tvg-name="MCM Top" tvg-logo="http://originaliptv.net/logotipos/MCM%20Top%20logo.png" group-title="PORTUGAL",MCM Top
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/20.ts
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="http://originaliptv.net/logotipos/1200px-Mcm_pop_logo.svg.png" group-title="PORTUGAL",MCM POP
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3249.ts
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV Portugal" tvg-logo="http://originaliptv.net/logotipos/mtv_portugal.jpg" group-title="PORTUGAL",MTV Portugal
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/24.ts
+#EXTINF:-1 tvg-id="MTV DANCE" tvg-name="MTV Dance" tvg-logo="http://originaliptv.net/logotipos/mtv-dance.png" group-title="PORTUGAL",MTV Dance
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/21.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks" tvg-logo="" group-title="PORTUGAL",MTV Rocks
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10505.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://originaliptv.net/logotipos/vh1.png" group-title="PORTUGAL",VH1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/27.ts
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="PORTUGAL",VH1 CLASSIC
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7461.ts
+#EXTINF:-1 tvg-id="RTP 1" tvg-name="[Low] RTP 1" tvg-logo="http://originaliptv.net//logotipos/RTP%201%20HD%20logo.png" group-title="Portugal Low Net",[Low] RTP 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6280.ts
+#EXTINF:-1 tvg-id="RTP 2" tvg-name="[Low] RTP 2" tvg-logo="http://originaliptv.net//logotipos/RTP%202%20logo.png" group-title="Portugal Low Net",[Low] RTP 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6281.ts
+#EXTINF:-1 tvg-id="SIC" tvg-name="[Low] SIC" tvg-logo="http://originaliptv.net//logotipos/SIC%20HD%20logo.png" group-title="Portugal Low Net",[Low] SIC
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6283.ts
+#EXTINF:-1 tvg-id="TVI" tvg-name="[Low] TVI" tvg-logo="http://originaliptv.net//logotipos/TVI%20logo.png" group-title="Portugal Low Net",[Low] TVI
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6285.ts
+#EXTINF:-1 tvg-id="SIC Noticias HD" tvg-name="[Low] Sic Noticias" tvg-logo="http://originaliptv.net/logotipos/SIC_NOTICIAS.jpg" group-title="Portugal Low Net",[Low] Sic Noticias
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6291.ts
+#EXTINF:-1 tvg-id="RTP 3 HD" tvg-name="[Low] RTP 3" tvg-logo="http://originaliptv.net/logotipos/RTP_3.png" group-title="Portugal Low Net",[Low] RTP 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6282.ts
+#EXTINF:-1 tvg-id="TVI 24" tvg-name="[Low] TVI 24" tvg-logo="http://originaliptv.net/logotipos/TVI_14.jpg" group-title="Portugal Low Net",[Low] TVI 24
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6284.ts
+#EXTINF:-1 tvg-id="CMTV" tvg-name="[Low] CMTV" tvg-logo="http://originaliptv.net/logotipos/CM_TV.jpg" group-title="Portugal Low Net",[Low] CMTV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6286.ts
+#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="[Low] TVI Ficção" tvg-logo="http://originaliptv.net/logotipos/TV_%20FICçAO.jpg" group-title="Portugal Low Net",[Low] TVI Ficção
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6287.ts
+#EXTINF:-1 tvg-id="Porto Canal" tvg-name="[Low] Porto Canal" tvg-logo="http://originaliptv.net/logotipos/PORTO_CANAL_1.png" group-title="Portugal Low Net",[Low] Porto Canal
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6266.ts
+#EXTINF:-1 tvg-id="TV Globo" tvg-name="[Low] TV Globo" tvg-logo="http://originaliptv.net/logotipos/GLOBO.jpg" group-title="Portugal Low Net",[Low] TV Globo
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6288.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="[Low] Baby TV" tvg-logo="http://originaliptv.net/logotipos/BABY_TV.jpg" group-title="Portugal Low Net",[Low] Baby TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6296.ts
+#EXTINF:-1 tvg-id="Panda HD" tvg-name="[Low] Canal Panda" tvg-logo="http://originaliptv.net/logotipos/CANAL_PANDA_1.png" group-title="Portugal Low Net",[Low] Canal Panda
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6297.ts
+#EXTINF:-1 tvg-id="JimJam" tvg-name="[Low] JimJam" tvg-logo="http://originaliptv.net/logotipos/JIMJAM.jpg" group-title="Portugal Low Net",[Low] JimJam
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6290.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="[Low] Nickelodeon" tvg-logo="" group-title="Portugal Low Net",[Low] Nickelodeon
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7644.ts
+#EXTINF:-1 tvg-id="Nick jr" tvg-name="[Low] NickJunior" tvg-logo="" group-title="Portugal Low Net",[Low] NickJunior
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7643.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="[Low] Disney Junior" tvg-logo="" group-title="Portugal Low Net",[Low] Disney Junior
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7645.ts
+#EXTINF:-1 tvg-id="TVCine 1" tvg-name="[Low] TVCine 1" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_1.jpg" group-title="Portugal Low Net",[Low] TVCine 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6276.ts
+#EXTINF:-1 tvg-id="TVCine 2" tvg-name="[Low] TVCine 2" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_2.png" group-title="Portugal Low Net",[Low] TVCine 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6277.ts
+#EXTINF:-1 tvg-id="TVCine 3" tvg-name="[Low] TVCine 3" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_3.png" group-title="Portugal Low Net",[Low] TVCine 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6278.ts
+#EXTINF:-1 tvg-id="TVCine 4" tvg-name="[Low] TVCine 4" tvg-logo="http://originaliptv.net/logotipos/TV_CINE_4.jpg" group-title="Portugal Low Net",[Low] TVCine 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6279.ts
+#EXTINF:-1 tvg-id="Tv Series" tvg-name="[Low] TVC SERIES" tvg-logo="" group-title="Portugal Low Net",[Low] TVC SERIES
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7651.ts
+#EXTINF:-1 tvg-id="Hollywood" tvg-name="[Low] Hollywood" tvg-logo="http://originaliptv.net/logotipos/CANAL_HOLLYWOOD_HD.png" group-title="Portugal Low Net",[Low] Hollywood
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6289.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] Cinemundo" tvg-logo="" group-title="Portugal Low Net",[Low] Cinemundo
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7648.ts
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="[Low] FOX" tvg-logo="http://originaliptv.net/logotipos/FOX.png" group-title="Portugal Low Net",[Low] FOX
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6265.ts
+#EXTINF:-1 tvg-id="FoxComedy" tvg-name="[Low] Fox Comedy" tvg-logo="http://originaliptv.net/logotipos/FOX_COMEDY.png" group-title="Portugal Low Net",[Low] Fox Comedy
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6264.ts
+#EXTINF:-1 tvg-id="FoxLife HD" tvg-name="[Low] Fox Life" tvg-logo="" group-title="Portugal Low Net",[Low] Fox Life
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7650.ts
+#EXTINF:-1 tvg-id="FoxMovies" tvg-name="[Low] Fox Movies" tvg-logo="" group-title="Portugal Low Net",[Low] Fox Movies
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7649.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="[Low] AXN" tvg-logo="http://originaliptv.net/logotipos/AXN.png" group-title="Portugal Low Net",[Low] AXN
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6268.ts
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="[Low] AXN Black" tvg-logo="http://originaliptv.net/logotipos/AXN_BLAC.jpg" group-title="Portugal Low Net",[Low] AXN Black
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6267.ts
+#EXTINF:-1 tvg-id="AXN White" tvg-name="[Low] AXN White" tvg-logo="http://originaliptv.net/logotipos/AXN_WHITE.png" group-title="Portugal Low Net",[Low] AXN White
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6269.ts
+#EXTINF:-1 tvg-id="A Bola TV" tvg-name="[Low] A Bola TV" tvg-logo="http://originaliptv.net/logotipos/A_BOLA.jpg" group-title="Portugal Low Net",[Low] A Bola TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7430.ts
+#EXTINF:-1 tvg-id="BTV" tvg-name="[Low] Benfica TV" tvg-logo="http://originaliptv.net/logotipos/BENFICA%20TV.png" group-title="Portugal Low Net",[Low] Benfica TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6270.ts
+#EXTINF:-1 tvg-id="Sport TV +" tvg-name="[Low] Sport TV +" tvg-logo="http://originaliptv.net/logotipos/sport_tv+.png" group-title="Portugal Low Net",[Low] Sport TV +
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7431.ts
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-name="[Low] SportTV 1" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV1.png" group-title="Portugal Low Net",[Low] SportTV 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6271.ts
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-name="[Low] SportTV 2" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV2.jpg" group-title="Portugal Low Net",[Low] SportTV 2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6272.ts
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-name="[Low] SportTV 3" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV3.jpg" group-title="Portugal Low Net",[Low] SportTV 3
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6273.ts
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-name="[Low] SportTV 4" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV_4.jpg" group-title="Portugal Low Net",[Low] SportTV 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6274.ts
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-name="[Low] SportTV 5" tvg-logo="http://originaliptv.net/logotipos/SPORT_TV5_1.png" group-title="Portugal Low Net",[Low] SportTV 5
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6275.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] ELEVEN SPORTS 1 HD" tvg-logo="" group-title="Portugal Low Net",[Low] ELEVEN SPORTS 1 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10504.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal Low Net",[Low] ELEVEN SPORTS 2 HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/10503.ts
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="[Low] EUROSPORT 1" tvg-logo="" group-title="Portugal Low Net",[Low] EUROSPORT 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7652.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] Eurosport2" tvg-logo="" group-title="Portugal Low Net",[Low] Eurosport2
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7654.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] SPORTING TV" tvg-logo="" group-title="Portugal Low Net",[Low] SPORTING TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7653.ts
+#EXTINF:-1 tvg-id="MTV Portugal" tvg-name="[Low] MTV Portugal" tvg-logo="http://originaliptv.net/logotipos/mtv_portugal.jpg" group-title="Portugal Low Net",[Low] MTV Portugal
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6293.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="[Low] Discovery Channel" tvg-logo="http://originaliptv.net/logotipos/DISCOVERY_CHANNEL_1.png" group-title="Portugal Low Net",[Low] Discovery Channel
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6295.ts
+#EXTINF:-1 tvg-id="Discovery Showcase HD" tvg-name="[Low] Discovery Showcase" tvg-logo="" group-title="Portugal Low Net",[Low] Discovery Showcase
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7647.ts
+#EXTINF:-1 tvg-id="Historia" tvg-name="[Low] Historia" tvg-logo="http://originaliptv.net/logotipos/HISTORY.jpg" group-title="Portugal Low Net",[Low] Historia
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6294.ts
+#EXTINF:-1 tvg-id="" tvg-name="[Low] NatGeo Wild" tvg-logo="" group-title="Portugal Low Net",[Low] NatGeo Wild
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7646.ts
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="[Low] National Geographic" tvg-logo="http://originaliptv.net/logotipos/NATIONAL_GEOGRAPHIC_CHANNEL.png" group-title="Portugal Low Net",[Low] National Geographic
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/6292.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Venus" tvg-logo="" group-title="Adults",PT: Venus
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PLAYBOY" tvg-logo="" group-title="Adults",PT: PLAYBOY
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7457.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOT" tvg-logo="" group-title="Adults",PT: HOT
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/7458.ts
+#EXTINF:-1 tvg-id="" tvg-name="CENTOXCENTO TV" tvg-logo="" group-title="Adults",CENTOXCENTO TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 1" tvg-logo="" group-title="Adults",Erotic 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9297.ts
+#EXTINF:-1 tvg-id="" tvg-name="Erotic 4" tvg-logo="" group-title="Adults",Erotic 4
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9296.ts
+#EXTINF:-1 tvg-id="" tvg-name="EROXXX" tvg-logo="" group-title="Adults",EROXXX
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9295.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PLAYBOY TV" tvg-logo="" group-title="Adults",ES: PLAYBOY TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9298.ts
+#EXTINF:-1 tvg-id="" tvg-name="EvilAngelTV" tvg-logo="" group-title="Adults",EvilAngelTV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9288.ts
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN" tvg-logo="" group-title="Adults",JASMIN
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9300.ts
+#EXTINF:-1 tvg-id="" tvg-name="PASSIONE TV" tvg-logo="" group-title="Adults",PASSIONE TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9293.ts
+#EXTINF:-1 tvg-id="" tvg-name="PINK O TV" tvg-logo="" group-title="Adults",PINK O TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9292.ts
+#EXTINF:-1 tvg-id="" tvg-name="Private TV HD" tvg-logo="" group-title="Adults",Private TV HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9291.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PENTHOUSE HD 1" tvg-logo="" group-title="Adults",PT: PENTHOUSE HD 1
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9304.ts
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SUPERONE" tvg-logo="" group-title="Adults",XXX: SUPERONE
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9299.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Sextreme SD" tvg-logo="" group-title="Adults",[BR] Sextreme SD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/8271.ts
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Sexzone HD" tvg-logo="" group-title="Adults",[BR] Sexzone HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/8270.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUSTLER HD" tvg-logo="" group-title="Adults",HUSTLER HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9302.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT HD" tvg-logo="" group-title="Adults",REDLIGHT HD
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9303.ts
+#EXTINF:-1 tvg-id="" tvg-name="SESTO SENSO TV" tvg-logo="" group-title="Adults",SESTO SENSO TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9290.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV jasmim" tvg-logo="" group-title="Adults",TV jasmim
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dusk TV" tvg-logo="" group-title="Adults",Dusk TV
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9294.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCT" tvg-logo="" group-title="Adults",SCT
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/9289.ts
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan 2: Hades" tvg-logo="http://Originaliptv.com:8000/images/Aqhl55vpzxNFqVfc2DpedUsR39L_small.jpg" group-title="Filmes Biblioteca",Escape Plan 2: Hades
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Wish" tvg-logo="http://Originaliptv.com:8000/images/7FG13lLQcV9DC2Bhn0hjxc6AFXV_small.jpg" group-title="Filmes Biblioteca",Death Wish
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Of Unknown Origin 2018" tvg-logo="http://Originaliptv.com:8000/images/akpMxKrt3pTObRw0LJ5UFmSxQ0p_small.jpg" group-title="Filmes Biblioteca",Of Unknown Origin 2018
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Man" tvg-logo="http://Originaliptv.com:8000/images/lvIIUOoY2PQRQ6syWchzkfNaXT1_small.jpg" group-title="Filmes Biblioteca",Spinning Man
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostland" tvg-logo="http://Originaliptv.com:8000/images/kTh2aSDvVTbMn1my70LxLqY13VE_small.jpg" group-title="Filmes Biblioteca",Ghostland
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rampage" tvg-logo="http://Originaliptv.com:8000/images/3gIO6mCd4Q4PF1tuwcyI3sjFrtI_small.jpg" group-title="Filmes Biblioteca",Rampage
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ready Player One" tvg-logo="http://Originaliptv.com:8000/images/pU1ULUq8D3iRxl1fdX2lZIzdHuI_small.jpg" group-title="Filmes Biblioteca",Ready Player One
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Yellow Birds" tvg-logo="http://Originaliptv.com:8000/images/rCJwKafIkkt1Z0sMhhJWGox99hB_small.jpg" group-title="Filmes Biblioteca",The Yellow Birds
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Distorted" tvg-logo="http://Originaliptv.com:8000/images/fnvBQzWlh0Dd9vWq4l0ZmkrM34F_small.jpg" group-title="Filmes Biblioteca",Distorted
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="211" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkxNjA0MjMzNF5BMl5BanBnXkFtZTgwNTM2NzczNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="Filmes Biblioteca",211
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Quiet Place" tvg-logo="http://Originaliptv.com:8000/images/nAU74GmpUk7t5iklEp3bufwDq4n_small.jpg" group-title="Filmes Biblioteca",A Quiet Place
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Calibre" tvg-logo="http://Originaliptv.com:8000/images/e4ErGjb9XXWH2EhcIploMaAfglE_small.jpg" group-title="Filmes Biblioteca",Calibre
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dark River" tvg-logo="http://Originaliptv.com:8000/images/2dAAl5Sm4XzSU5D0IozMTCliT1V_small.jpg" group-title="Filmes Biblioteca",Dark River
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ideal Home" tvg-logo="http://Originaliptv.com:8000/images/kncTmSU89LiH26CaHktlpYvzoMM_small.jpg" group-title="Filmes Biblioteca",Ideal Home
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Set It Up" tvg-logo="http://Originaliptv.com:8000/images/XF5jV0UxKnYNPAimem0hbwPfCR_small.jpg" group-title="Filmes Biblioteca",Set It Up
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tau" tvg-logo="http://Originaliptv.com:8000/images/qqYOlCee3X7cKg05EOQH1htcHmy_small.jpg" group-title="Filmes Biblioteca",Tau
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Catcher Was a Spy" tvg-logo="http://Originaliptv.com:8000/images/gxtIeG33Orz1RIEYoGX0inHvOHE_small.jpg" group-title="Filmes Biblioteca",The Catcher Was a Spy
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Female Brain" tvg-logo="http://Originaliptv.com:8000/images/2lAEIryHlAsvpVnmkqwKWhbmQwn_small.jpg" group-title="Filmes Biblioteca",The Female Brain
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terra de Minas" tvg-logo="https://static9.opensubtitles.org/gfx/thumbs/4/2/4/1/3841424.jpg" group-title="Filmes Biblioteca",Terra de Minas
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/8231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tremors 6 - A Cold Day in Hell" tvg-logo="https://ia.media-imdb.com/images/M/MV5BZDM3MTQ4MjYtNDk3Zi00NTliLTkxZjQtOTI1Yzg1NjViOWJkXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Tremors 6 - A Cold Day in Hell
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/8232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Game Night" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Game Night
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/8230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Dunkirk
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/8233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequena Grande Vida" tvg-logo="http://originaliptv.com:8000/images/1389072.jpg" group-title="Filmes Biblioteca",Pequena Grande Vida
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Three Billboards Outside Ebbing Missouri" tvg-logo="http://originaliptv.com:8000/images/5027774.jpg" group-title="Filmes Biblioteca",Three Billboards Outside Ebbing Missouri
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corpo Fechado" tvg-logo="http://originaliptv.com:8000/images/0217869.jpg" group-title="Filmes Biblioteca",Corpo Fechado
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuba And The Cameraman" tvg-logo="http://originaliptv.com:8000/images/7320560.jpg" group-title="Filmes Biblioteca",Cuba And The Cameraman
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darkest Hour" tvg-logo="http://originaliptv.com:8000/images/4555426.jpg" group-title="Filmes Biblioteca",Darkest Hour
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Days Of Power" tvg-logo="http://originaliptv.com:8000/images/3068544.jpg" group-title="Filmes Biblioteca",Days Of Power
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hangman" tvg-logo="http://originaliptv.com:8000/images/3011960.jpg" group-title="Filmes Biblioteca",Hangman
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keep Watching" tvg-logo="http://originaliptv.com:8000/images/2531334.jpg" group-title="Filmes Biblioteca",Keep Watching
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonder" tvg-logo="http://originaliptv.com:8000/images/2543472.jpg" group-title="Filmes Biblioteca",Wonder
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE MURALHA" tvg-logo="http://originaliptv.com:8000/images/2034800.jpg" group-title="Filmes Biblioteca",A GRANDE MURALHA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA LA LAND" tvg-logo="http://originaliptv.com:8000/images/3783958.jpg" group-title="Filmes Biblioteca",LA LA LAND
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O CULTO DE CHUCKY" tvg-logo="http://originaliptv.com:8000/images/3280262.jpg" group-title="Filmes Biblioteca",O CULTO DE CHUCKY
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American Assassin" tvg-logo="http://originaliptv.com:8000/images/1961175.jpg" group-title="Filmes Biblioteca",American Assassin
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American made" tvg-logo="http://originaliptv.com:8000/images/3532216.jpg" group-title="Filmes Biblioteca",American made
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The circle" tvg-logo="http://originaliptv.com:8000/images/4287320.jpg" group-title="Filmes Biblioteca",The circle
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy" tvg-logo="http://originaliptv.com:8000/images/2345759.jpg" group-title="Filmes Biblioteca",The Mummy
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A cidade perdida de z" tvg-logo="http://originaliptv.com:8000/images/1212428.jpg" group-title="Filmes Biblioteca",A cidade perdida de z
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 8" tvg-logo="http://originaliptv.com:8000/images/4630562.jpg" group-title="Filmes Biblioteca",VELOZES E FURIOSOS 8
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAYWATCH - S.O.S MALIBU" tvg-logo="http://originaliptv.com:8000/images/1469304.jpg" group-title="Filmes Biblioteca",BAYWATCH - S.O.S MALIBU
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EM RITMO DE FUGA" tvg-logo="http://originaliptv.com:8000/images/3890160.jpg" group-title="Filmes Biblioteca",EM RITMO DE FUGA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas das caraibas  vingança de salazar" tvg-logo="http://originaliptv.com:8000/images/1790809.jpg" group-title="Filmes Biblioteca",Piratas das caraibas  vingança de salazar
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PLANETA DOS MACACOS 3: A GUERRA" tvg-logo="http://originaliptv.com:8000/images/3450958.jpg" group-title="Filmes Biblioteca",PLANETA DOS MACACOS 3: A GUERRA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A TORRE NEGRA" tvg-logo="http://originaliptv.com:8000/images/1648190.jpg" group-title="Filmes Biblioteca",A TORRE NEGRA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MULHER-MARAVILHA" tvg-logo="http://originaliptv.com:8000/images/0451279.jpg" group-title="Filmes Biblioteca",MULHER-MARAVILHA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MEU MALVADO FAVORITO 3" tvg-logo="http://originaliptv.com:8000/images/3469046.jpg" group-title="Filmes Biblioteca",MEU MALVADO FAVORITO 3
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT: A COISA" tvg-logo="http://originaliptv.com:8000/images/1396484.jpg" group-title="Filmes Biblioteca",IT: A COISA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DUPLA EXPLOSIVA" tvg-logo="http://originaliptv.com:8000/images/1959563.jpg" group-title="Filmes Biblioteca",DUPLA EXPLOSIVA
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARROS 3" tvg-logo="http://originaliptv.com:8000/images/3606752.jpg" group-title="Animação",CARROS 3
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALIEN: COVENANT" tvg-logo="http://originaliptv.com:8000/images/2316204.jpg" group-title="Filmes Biblioteca",ALIEN: COVENANT
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VALERIAN E A CIDADE DOS MIL PLANETAS" tvg-logo="http://originaliptv.com:8000/images/2239822.jpg" group-title="Filmes Biblioteca",VALERIAN E A CIDADE DOS MIL PLANETAS
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CORRA!" tvg-logo="http://originaliptv.com:8000/images/5052448.jpg" group-title="Filmes Biblioteca",CORRA!
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Darker" tvg-logo="http://originaliptv.com:8000/images/4465564.jpg" group-title="Filmes Biblioteca",Fifty Shades Darker
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: DE VOLTA AO LAR" tvg-logo="http://originaliptv.com:8000/images/2250912.jpg" group-title="Filmes Biblioteca",HOMEM-ARANHA: DE VOLTA AO LAR
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA RESURGENCE" tvg-logo="http://originaliptv.com:8000/images/4262980.jpg" group-title="Filmes Biblioteca",GODZILLA RESURGENCE
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardiões da Galáxia Vol. 2" tvg-logo="http://originaliptv.com:8000/images/3896198.jpg" group-title="Filmes Biblioteca",Guardiões da Galáxia Vol. 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FRANK & LOLA: AMOR OBSESSIVO" tvg-logo="http://originaliptv.com:8000/images/1605717.jpg" group-title="Filmes Biblioteca",FRANK & LOLA: AMOR OBSESSIVO
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O DIA DO ATENTADO" tvg-logo="http://originaliptv.com:8000/images/4572514.jpg" group-title="Filmes Biblioteca",O DIA DO ATENTADO
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anne off green gables" tvg-logo="http://originaliptv.com:8000/images/0088727.jpg" group-title="Filmes Biblioteca",Anne off green gables
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SNOWDEN" tvg-logo="http://originaliptv.com:8000/images/3774114.jpg" group-title="Filmes Biblioteca",SNOWDEN
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 STREETS" tvg-logo="http://originaliptv.com:8000/images/2990126.jpg" group-title="Filmes Biblioteca",100 STREETS
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEATH NOTE" tvg-logo="http://originaliptv.com:8000/images/1241317.jpg" group-title="Filmes Biblioteca",DEATH NOTE
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Internet - O Filme" tvg-logo="http://originaliptv.com:8000/images/6571110.jpg" group-title="Dublados",Internet - O Filme
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fome de Poder" tvg-logo="http://originaliptv.com:8000/images/4276820.jpg" group-title="Dublados",Fome de Poder
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu fico louco" tvg-logo="http://originaliptv.com:8000/images/5968964.jpg" group-title="Dublados",Eu fico louco
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious 8" tvg-logo="http://originaliptv.com:8000/images/4630562.jpg" group-title="Dublados",Fast and Furious 8
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Vendedor de Sonhos 2017" tvg-logo="http://originaliptv.com:8000/images/5496926.jpg" group-title="Dublados",O Vendedor de Sonhos 2017
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Okja" tvg-logo="http://originaliptv.com:8000/images/3967856.jpg" group-title="Dublados",Okja
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rei Arthur A Lenda da Espada" tvg-logo="http://originaliptv.com:8000/images/1972591.jpg" group-title="Dublados",Rei Arthur A Lenda da Espada
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: A Vingança" tvg-logo="http://originaliptv.com:8000/images/5776208.jpg" group-title="Dublados",Resident Evil: A Vingança
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/6462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle A Criação do Mal" tvg-logo="http://originaliptv.com:8000/images/5140878.jpg" group-title="Filmes Biblioteca",Annabelle A Criação do Mal
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomic Blonde Agente Especial" tvg-logo="http://originaliptv.com:8000/images/2406566.jpg" group-title="Filmes Biblioteca",Atomic Blonde Agente Especial
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leatherface A Origem do Mal" tvg-logo="http://originaliptv.com:8000/images/2620590.jpg" group-title="Filmes Biblioteca",Leatherface A Origem do Mal
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mae!" tvg-logo="http://originaliptv.com:8000/images/5109784.jpg" group-title="Filmes Biblioteca",Mae!
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jungle" tvg-logo="http://originaliptv.com:8000/images/3758172.jpg" group-title="Filmes Biblioteca",Jungle
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stronger Força de Viver" tvg-logo="http://originaliptv.com:8000/images/3881784.jpg" group-title="Filmes Biblioteca",Stronger Força de Viver
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Branca de neve e os 7 anoes" tvg-logo="http://originaliptv.com:8000/images/0029583.jpg" group-title="Filmes Biblioteca",Branca de neve e os 7 anoes
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra dos Sexos" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTljYmU2NTMtODhhNC00NjlhLWJhZTUtNDllODYyYWM4ZjA5XkEyXkFqcGdeQXVyNjM0ODk5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",A Guerra dos Sexos
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Montanha entre nos" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjllMWJmZTEtODA2Mi00MzY3LThiYmMtZDFjYjQ2NDM2MWJkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",A Montanha entre nos
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brad's Status" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDliZTUwZTktYmJlNC00MGE1LWEwODktNWZiNTRkMGFiNTg1XkEyXkFqcGdeQXVyNjU5NzU3MjE@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Brad's Status
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Day of the Dead Bloodline" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjE2MTg1NDQ2MF5BMl5BanBnXkFtZTgwMDkxMzMzNDM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Day of the Dead Bloodline
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor Ragnarok" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Thor Ragnarok
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Almost Friends" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4NDQyMjMzNF5BMl5BanBnXkFtZTgwNzk5MzMwNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Almost Friends
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Borg VS McEnroe" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NTAzMDY5Ml5BMl5BanBnXkFtZTgwMTE4NjQ0MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Borg VS McEnroe
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Death Day" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0ODMyNjk1NF5BMl5BanBnXkFtZTgwNDkxOTk4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",Happy Death Day
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geostorm" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0OTQwMTIxNzheQTJeQWpwZ15BbWU4MDQ1MzI3OTMy._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Filmes Biblioteca",Geostorm
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Snowman" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Filmes Biblioteca",The Snowman
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Just Getting Started" tvg-logo="http://originaliptv.com:8000/images/5721088.jpg" group-title="Filmes Biblioteca",Just Getting Started
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bunyan e Babe: Os Amigos da Floresta" tvg-logo="http://originaliptv.com:8000/images/5721088.jpg" group-title="Animação",Bunyan e Babe: Os Amigos da Floresta
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cold Skin" tvg-logo="http://originaliptv.com:8000/images/1034385.jpg" group-title="Filmes Biblioteca",Cold Skin
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justica A Nova Fronteira" tvg-logo="http://originaliptv.com:8000/images/0902272.jpg" group-title="Animação",Liga da Justica A Nova Fronteira
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mary e Max - Uma Amizade Diferente" tvg-logo="http://originaliptv.com:8000/images/0978762.jpg" group-title="Animação",Mary e Max - Uma Amizade Diferente
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Little Pony - O Filme" tvg-logo="http://originaliptv.com:8000/images/4131800.jpg" group-title="Animação",My Little Pony - O Filme
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olaf - Em Uma Nova Aventura Congelante de Frozen" tvg-logo="http://originaliptv.com:8000/images/5452780.jpg" group-title="Animação",Olaf - Em Uma Nova Aventura Congelante de Frozen
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Pai, Big Filho" tvg-logo="http://originaliptv.com:8000/images/5715410.jpg" group-title="Animação",Big Pai, Big Filho
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Carros 3    (3D)" tvg-logo="http://originaliptv.com:8000/images/3606752.jpg" group-title="Animação",Carros 3    (3D)
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Que Será de Nozes 2" tvg-logo="http://originaliptv.com:8000/images/3486626.jpg" group-title="Animação",O Que Será de Nozes 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missao Cegonha" tvg-logo="http://originaliptv.com:8000/images/3823116.jpg" group-title="Animação",Missao Cegonha
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doentes de Amor" tvg-logo="http://originaliptv.com:8000/images/5462602.jpg" group-title="Filmes Biblioteca",Doentes de Amor
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman - O Círculo Dourado" tvg-logo="http://originaliptv.com:8000/images/4649466.jpg" group-title="Filmes Biblioteca",Kingsman - O Círculo Dourado
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mudo" tvg-logo="http://originaliptv.com:8000/images/1464763.jpg" group-title="Filmes Biblioteca",Mudo
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quarentena" tvg-logo="http://originaliptv.com:8000/images/1082868.jpg" group-title="Filmes Biblioteca",Quarentena
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quarentena 2" tvg-logo="http://originaliptv.com:8000/images/1699231.jpg" group-title="Filmes Biblioteca",Quarentena 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3" tvg-logo="http://originaliptv.com:8000/images/3957956.jpg" group-title="Filmes Biblioteca",12 Rounds 3
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Gotham by Gaslight" tvg-logo="http://Originaliptv.com:8000/images/7167630.jpg" group-title="Filmes Biblioteca",Batman: Gotham by Gaslight
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detroit em Rebeliao" tvg-logo="http://originaliptv.com:8000/images/5390504.jpg" group-title="Filmes Biblioteca",Detroit em Rebeliao
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais - Jigsaw" tvg-logo="http://originaliptv.com:8000/images/3348730.jpg" group-title="Filmes Biblioteca",Jogos Mortais - Jigsaw
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze" tvg-logo="http://originaliptv.com:8000/images/5752606.jpg" group-title="Filmes Biblioteca",Maze
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rastros de um Sequestro" tvg-logo="http://originaliptv.com:8000/images/7057496.jpg" group-title="Filmes Biblioteca",Rastros de um Sequestro
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vende-se Esta Casa" tvg-logo="http://Originaliptv.com:8000/images/7608028.jpg" group-title="Filmes Biblioteca",Vende-se Esta Casa
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas um Garoto em Nova York" tvg-logo="http://originaliptv.com:8000/images/0460890.jpg" group-title="Filmes Biblioteca",Apenas um Garoto em Nova York
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Estrangeiro" tvg-logo="http://Originaliptv.com:8000/images/1615160.jpg" group-title="Filmes Biblioteca",O Estrangeiro
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Steel Rain" tvg-logo="http://Originaliptv.com:8000/images/6769508.jpg" group-title="Filmes Biblioteca",Steel Rain
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Floresta Muito Louca" tvg-logo="http://Originaliptv.com:8000/images/6769508.jpg" group-title="Animação",Uma Floresta Muito Louca
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fixed" tvg-logo="http://Originaliptv.com:8000/images/4777004.jpg" group-title="Filmes Biblioteca",Fixed
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="http://Originaliptv.com:8000/images/2283362.jpg" group-title="Filmes Biblioteca",Jumanji
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Retaliação" tvg-logo="http://Originaliptv.com:8000/images/5208950.jpg" group-title="Filmes Biblioteca",Kickboxer: A Retaliação
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: Beyond" tvg-logo="http://Originaliptv.com:8000/images/1724970.jpg" group-title="Filmes Biblioteca",Skyline: Beyond
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars 8" tvg-logo="http://Originaliptv.com:8000/images/2527336.jpg" group-title="Filmes Biblioteca",Star Wars 8
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verônica" tvg-logo="http://Originaliptv.com:8000/images/1392261.jpg" group-title="Filmes Biblioteca",Verônica
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vilã" tvg-logo="http://Originaliptv.com:8000/images/6777338.jpg" group-title="Filmes Biblioteca",A Vilã
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Poder e o Impossivel" tvg-logo="http://Originaliptv.com:8000/images/5503688.jpg" group-title="Filmes Biblioteca",O Poder e o Impossivel
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scorched Earth" tvg-logo="http://Originaliptv.com:8000/images/2392748.jpg" group-title="Filmes Biblioteca",Scorched Earth
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Refugio" tvg-logo="http://Originaliptv.com:8000/images/2488778.jpg" group-title="Filmes Biblioteca",Um Refugio
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Terrorista" tvg-logo="http://Originaliptv.com:8000/images/1734493.jpg" group-title="Filmes Biblioteca",Conspiração Terrorista
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Masked Saint" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",The Masked Saint
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/7776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 Indomáveis" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",12 Indomáveis
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="15h17 - Trem Para Paris" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",15h17 - Trem Para Paris
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Forma Da Água" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",A Forma Da Água
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Idade Da Pedra" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",A Idade Da Pedra
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abelha Maia 2 Os Jogos Do Mel" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Abelha Maia 2 Os Jogos Do Mel
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Improvaveis" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Amigos Improvaveis
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annihilation" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Annihilation
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras De Tadeo Jones 2_O Segredo Do Rei Midas" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",As Aventuras De Tadeo Jones 2_O Segredo Do Rei Midas
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Driver_ Alta Velocidade" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Baby Driver_ Alta Velocidade
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailarina" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Bailarina
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balburdia Na Quinta" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Balburdia Na Quinta
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bem Casados" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Bem Casados
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Black Panther
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Braven" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Braven
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breathe_ Uma Razão Para Viver" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Breathe_ Uma Razão Para Viver
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Call Me By Your Name" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Call Me By Your Name
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capitao Cuecas O Filme" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Capitao Cuecas O Filme
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Coco
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conquista A Lua" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Conquista A Lua
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z_ O Destemido Songoku" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Dragon Ball Z_ O Destemido Songoku
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Epic" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Epic
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Everest" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Filmes Biblioteca",Everest
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinando" tvg-logo="http://Originaliptv.com:8000/images/3103166.jpg" group-title="Animação",Ferdinando
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Freed" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Fifty Shades Freed
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangue Do Parque" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Gangue Do Parque
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost In The Shell" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Ghost In The Shell
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gru O Maldisposto 3" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Gru O Maldisposto 3
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hachiko A Dog's Story" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Hachiko A Dog's Story
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Kill Giants" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",I Kill Giants
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Tonya" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",I Tonya
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Igor" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Igor
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick Chapter 2" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",John Wick Chapter 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji_ Bem-Vindos à Selva" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Jumanji_ Bem-Vindos à Selva
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer - A Retaliação" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Kickboxer - A Retaliação
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Kung Fu Panda
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lady Bird" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Lady Bird
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lenda Dos Guardiões" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Lenda Dos Guardiões
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justiça" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Liga Da Justiça
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan Lucky - Roubo Em Família" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Logan Lucky - Roubo Em Família
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love Simon" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Love Simon
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maze Runner_ A Cura Mortal" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Maze Runner_ A Cura Mortal
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mollys Game - Jogo Da Alta-Roda" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Mollys Game - Jogo Da Alta-Roda
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Espaço Entre Nós" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",O Espaço Entre Nós
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Showman" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",O Grande Showman
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas E O Assassino" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",O Guarda-Costas E O Assassino
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Que Inventou Natal" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",O Homem Que Inventou Natal
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Only The Brave" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Only The Brave
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Piratas Da Somália" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Os Piratas Da Somália
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacific Rim 2 Uprising" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Pacific Rim 2 Uprising
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paddington 2" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Paddington 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Peter Rabbit
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau O Filme" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Pica Pau O Filme
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Please Stand By_ Tudo Que Quero" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Please Stand By_ Tudo Que Quero
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porque Ele" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Porque Ele
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ratatui" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",Ratatui
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red Sparrow_ Agente Vermelha" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Red Sparrow_ Agente Vermelha
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Room" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Room
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicario - Infiltrado" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Sicario - Infiltrado
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stronger_ Força De Viver" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Filmes Biblioteca",Stronger_ Força De Viver
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby" tvg-logo="http://Originaliptv.com:8000/images/jjPJ4s3DWZZvI4vw8Xfi4Vqa1Q8_small.jpg" group-title="Animação",The Boss Baby
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Commuter" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",The Commuter
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Croods" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",The Croods
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Disaster Artist" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",The Disaster Artist
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Emoji Movie" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",The Emoji Movie
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The LEGO Ninjago Movie" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",The LEGO Ninjago Movie
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Post - A Guerra Secreta" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",The Post - A Guerra Secreta
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Square_ O Quadrado" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",The Square_ O Quadrado
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Top Cat O Início" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",Top Cat O Início
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Três Cartazes à Beira Da Estrada" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",Três Cartazes à Beira Da Estrada
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Susto De Familia" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",Um Susto De Familia
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Voo Em Grande" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",Um Voo Em Grande
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Up" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Animação",Up
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valerian And The City Of A Thousand Planets" tvg-logo="http://Originaliptv.com:8000/images/rDeGK6FIUfVcXmuBdEORPAGPMNg_small.jpg" group-title="Filmes Biblioteca",Valerian And The City Of A Thousand Planets
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chappaquiddick" tvg-logo="http://Originaliptv.com:8000/images/5JcZ4xOlc4og9Hw7vjZYDk9BIFN_small.jpg" group-title="Filmes Biblioteca",Chappaquiddick
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Domestics" tvg-logo="http://Originaliptv.com:8000/images/j64I3u1wwgPct3stvvKU2ikl14w_small.jpg" group-title="Filmes Biblioteca",The Domestics
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Legend" tvg-logo="http://Originaliptv.com:8000/images/tX20J2FDwARvOcvMutyoox8azl6_small.jpg" group-title="Filmes Biblioteca",Big Legend
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Disobedience" tvg-logo="http://Originaliptv.com:8000/images/skPT4ffWhlmmDOMNEdxOiP6Emfz_small.jpg" group-title="Filmes Biblioteca",Disobedience
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Every Day" tvg-logo="http://Originaliptv.com:8000/images/4UnME3icxSspwL0UoGZNSyyp7Xs_small.jpg" group-title="Filmes Biblioteca",Every Day
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Troopers 2" tvg-logo="http://Originaliptv.com:8000/images/57SZgdugVClIy22rfnANeBJ5KsN_small.jpg" group-title="Filmes Biblioteca",Super Troopers 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legacy of a Whitetail Deer Hunter" tvg-logo="http://Originaliptv.com:8000/images/rEz6ArsPGzVnizMS1fWrvrQcp7t_small.jpg" group-title="Filmes Biblioteca",The Legacy of a Whitetail Deer Hunter
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siberia" tvg-logo="http://Originaliptv.com:8000/images/m0ybv0jt4OrTFOHdzrSIssaE2xJ_small.jpg" group-title="Novidades",Siberia
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Recall" tvg-logo="http://Originaliptv.com:8000/images/amITgb0WH6qx11wKlBDCak5CvGT_small.jpg" group-title="Novidades",Recall
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Overboard" tvg-logo="http://Originaliptv.com:8000/images/qauHzSQJdo9VYX4NKn9PdWnvXOV_small.jpg" group-title="Novidades",Overboard
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In Darkness" tvg-logo="http://Originaliptv.com:8000/images/c5w3fkua6BYjDzs0bbOXYbWCrlF_small.jpg" group-title="Novidades",In Darkness
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="How It Ends" tvg-logo="http://Originaliptv.com:8000/images/prdFM08mGvVDA6uQxKJh8n8Vek1_small.jpg" group-title="Novidades",How It Ends
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Fallen Kingdom" tvg-logo="http://Originaliptv.com:8000/images/c9XxwwhPHdaImA2f1WEfEsbhaFB_small.jpg" group-title="Novidades",Jurassic World: Fallen Kingdom
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10488.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Occupation" tvg-logo="http://Originaliptv.com:8000/images/hr7MFQAmP30IJZP2FXKhPKbe8IW_small.jpg" group-title="Novidades",Occupation
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10487.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Prayer Before Dawn" tvg-logo="http://Originaliptv.com:8000/images/73KrcLh1DpnBP3HwGpqoUUwKWF4_small.jpg" group-title="Novidades",A Prayer Before Dawn
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking In" tvg-logo="http://Originaliptv.com:8000/images/bKH7H4f5LPBQ5KOmHPcYtxCo7Od_small.jpg" group-title="Novidades",Breaking In
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Extinction" tvg-logo="http://Originaliptv.com:8000/images/p1XMPYuM8SvmlA1OQIIfpK1TakM_small.jpg" group-title="Novidades",Extinction
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10490.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Father of the Year" tvg-logo="http://Originaliptv.com:8000/images/mmBdCkZxHwQn5zM17cZmd3giJCY_small.jpg" group-title="Novidades",Father of the Year
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Row" tvg-logo="http://Originaliptv.com:8000/images/vpFYdM5s5T7gVrRQaWKgwpW2fgQ_small.jpg" group-title="Novidades",The Row
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="http://Originaliptv.com:8000/images/7WsyChQLEftFiDOVTGkv3hFpyyt_small.jpg" group-title="Novidades",Avengers: Infinity War
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot Summer Nights" tvg-logo="http://Originaliptv.com:8000/images/gsWdYsXkpJx2CYkveEw779O5eMg_small.jpg" group-title="Novidades",Hot Summer Nights
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Like Father" tvg-logo="http://Originaliptv.com:8000/images/jtiaQxL8NpZrj1qZ0VxznQMfGNR_small.jpg" group-title="Novidades",Like Father
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="http://Originaliptv.com:8000/images/to0spRl1CMDvyUbOnbb4fTk3VAd_small.jpg" group-title="Novidades",Deadpool 2
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyscraper" tvg-logo="http://Originaliptv.com:8000/images/3NL1FiTEhU4SWOuWk8lkVCbmnYm_small.jpg" group-title="Novidades",Skyscraper
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Action Point" tvg-logo="http://Originaliptv.com:8000/images/5lqJx0uNKrD1cEKgaqF1LBsLAoi_small.jpg" group-title="Novidades",Action Point
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Book Club" tvg-logo="http://Originaliptv.com:8000/images/6ORGBbOA45pfKQXvntPf46NoFGO_small.jpg" group-title="Novidades",Book Club
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Package" tvg-logo="http://Originaliptv.com:8000/images/70mP0nwUmtaL44Y8aoUn6uBjJON_small.jpg" group-title="Novidades",The Package
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patient Zero" tvg-logo="http://Originaliptv.com:8000/images/5jOqatpfh0aKYhl6fN83RK69UtC_small.jpg" group-title="Novidades",Patient Zero
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tag" tvg-logo="http://Originaliptv.com:8000/images/eXXpuW2xaq5Aen9N5prFlARVIvr_small.jpg" group-title="Novidades",Tag
+http://ilovetv.pt:8000/movie/c6KRfrsMVc/CNxZFakZGf/10520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="---------- Radios ----------" tvg-logo="" group-title="",---------- Radios ----------
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3192.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mega Hits FM" tvg-logo="" group-title="",Mega Hits FM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3190.ts
+#EXTINF:-1 tvg-id="" tvg-name="RFM" tvg-logo="" group-title="",RFM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3191.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oxigenio FM" tvg-logo="" group-title="",Oxigenio FM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3188.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orbital FM" tvg-logo="" group-title="",Orbital FM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3189.ts
+#EXTINF:-1 tvg-id="" tvg-name="First Class Radio" tvg-logo="" group-title="",First Class Radio
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3187.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amalia FM" tvg-logo="" group-title="",Amalia FM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3184.ts
+#EXTINF:-1 tvg-id="" tvg-name="Total FM (Algarve)" tvg-logo="" group-title="",Total FM (Algarve)
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3186.ts
+#EXTINF:-1 tvg-id="" tvg-name="94 FM" tvg-logo="" group-title="",94 FM
+http://ilovetv.pt:8000/live/c6KRfrsMVc/CNxZFakZGf/3185.ts
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E01" tvg-logo="http://Originaliptv.com:8000/images/wKpQvdfzsOf7hKWwU0H8sSXZh1T_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E02" tvg-logo="http://Originaliptv.com:8000/images/e5sVue90Xd7kbTLrfbArexjpPEz_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E03" tvg-logo="http://Originaliptv.com:8000/images/8CUeEvXECN6upEplYvLRwkns8dH_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E04" tvg-logo="http://Originaliptv.com:8000/images/h1Jt1XUkSdUGf2NM4PK1yN463tN_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E05" tvg-logo="http://Originaliptv.com:8000/images/i4uvi0zrSui94jdO0CkMoN3DVwY_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E06" tvg-logo="http://Originaliptv.com:8000/images/rGfZXEba8shIyNViwSuPbGwHenw_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E07" tvg-logo="http://Originaliptv.com:8000/images/4xeUZ3khWWMvof4bicjT1qTXfPq_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E08" tvg-logo="http://Originaliptv.com:8000/images/fzgAqAeutxJR7WEe1xgbff6qT7y_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E09" tvg-logo="http://Originaliptv.com:8000/images/1R8Vr3oEbqkVp4EEfRX1skaxQ06_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E10" tvg-logo="http://Originaliptv.com:8000/images/1ePgd8OUgBIsuQ03OGz76zwRe9d_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E11" tvg-logo="http://Originaliptv.com:8000/images/iA95Wzc5qZdwVLspsmzuJCCxaE9_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E11
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E12" tvg-logo="http://Originaliptv.com:8000/images/AbABGEWs2IkvStrqyeBxbwmMlUV_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E12
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S01 E13" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S01 E13
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E01" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E02" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E03" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E04" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E05" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Money Heist S02 E06" tvg-logo="http://Originaliptv.com:8000/images/YlXlJz4eNqmLSY760ZplgI4IdH_small.jpg" group-title="LA Casa de Papel",Money Heist S02 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E01" tvg-logo="http://Originaliptv.com:8000/images/ccKFRntoj0IvKyYRhwa5OvgzKYV_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E02" tvg-logo="http://Originaliptv.com:8000/images/ucJSgfXGSUXllKkUXj5VSeuzTjY_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E03" tvg-logo="http://Originaliptv.com:8000/images/h549fQfrFm4VAstYHuiN4pBQKQF_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E04" tvg-logo="http://Originaliptv.com:8000/images/mSSlQZ5AMC2Mdfd1oufGb10m4Z0_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E05" tvg-logo="http://Originaliptv.com:8000/images/mch2M5E6ep67gIIcjV9GPc5AnJZ_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S01 E06" tvg-logo="http://Originaliptv.com:8000/images/eeZsNbAxVsysrLOk0HMDUrZVMQf_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S01 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E01" tvg-logo="http://Originaliptv.com:8000/images/xbi94WOnv8nFKNDipP3OaAC58pz_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E02" tvg-logo="http://Originaliptv.com:8000/images/9Yb6TGfo8YfYIc8oRRCi86Ga9bA_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E03" tvg-logo="http://Originaliptv.com:8000/images/iOSxUesOZD9a1lTC508lk0e97z3_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E04" tvg-logo="http://Originaliptv.com:8000/images/qpStK1MQtA5AUrhjgd0PvC0ZDCU_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E05" tvg-logo="http://Originaliptv.com:8000/images/seXoGUWAZ6DMSMQw4VlZPf5zjfa_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E06" tvg-logo="http://Originaliptv.com:8000/images/niX3UGNmPZOVw8h0v4t7jXcL8eU_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E07" tvg-logo="http://Originaliptv.com:8000/images/xcqecmQFHLAMFPC0z5Q1n3qN56F_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E08" tvg-logo="http://Originaliptv.com:8000/images/aUH2ItdbHS3kPxfWwitkBKkR4kf_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E09" tvg-logo="http://Originaliptv.com:8000/images/xlsY4gXwX8QAH5H3ODGfNcCPkrF_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E10" tvg-logo="http://Originaliptv.com:8000/images/qFEZHshhf0QsSteUzu3PFYgOLL0_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E11" tvg-logo="http://Originaliptv.com:8000/images/p3MLwCdUOcNK1X0vH0jlh7fcQdI_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E11
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E12" tvg-logo="http://Originaliptv.com:8000/images/nlRGmFzgqyl0vyJ0TjvWtFEDCmh_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E12
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E13" tvg-logo="http://Originaliptv.com:8000/images/bJDbkqfgPyf1UI8tYXC9dGE1kkV_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E13
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E14" tvg-logo="http://Originaliptv.com:8000/images/ymHnr9axhOlkSn2urQvAqvnz05o_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E14
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S02 E15" tvg-logo="http://Originaliptv.com:8000/images/u6G7ItO8Bn9eFg9l7vpu44nQokm_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S02 E15
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E01" tvg-logo="http://Originaliptv.com:8000/images/ibvKh25Zudki90LYVGzkA0m9qvX_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E02" tvg-logo="http://Originaliptv.com:8000/images/qc9LbqdSOKoKgx24iIBBXr5wjSz_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E03" tvg-logo="http://Originaliptv.com:8000/images/9wp7BHmCcmz9EnT9nwUiLa5O2qb_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E04" tvg-logo="http://Originaliptv.com:8000/images/uXwWHomxsCoSj80YO67Z1jELxff_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E05" tvg-logo="http://Originaliptv.com:8000/images/hXpNjQXE2V01E0AiKCHhhzpPUeb_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E06" tvg-logo="http://Originaliptv.com:8000/images/fcQGViCsREtLxpc9EP03mJGOU9d_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E07" tvg-logo="http://Originaliptv.com:8000/images/tv0zyoiKj6tugzn25tG7BKHnm4l_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E08" tvg-logo="http://Originaliptv.com:8000/images/vdxHkeeolix9V9Rn815P5F0sbYj_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E09" tvg-logo="http://Originaliptv.com:8000/images/7bpxrybzKXMgox5CokNuTHseYwq_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E10" tvg-logo="http://Originaliptv.com:8000/images/ixTxjVrUtLaWAE10Pa49WYx8MZF_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E11" tvg-logo="http://Originaliptv.com:8000/images/17zX92mFZ6k3qpcaCeUqyMml5jS_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E11
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E12" tvg-logo="http://Originaliptv.com:8000/images/ci0kmN7S4mLMFCdKehQWSufD1uk_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E12
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E13" tvg-logo="http://Originaliptv.com:8000/images/dV2s8OyLsmPkJGc9T0M0xbzUjab_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E13
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E14" tvg-logo="http://Originaliptv.com:8000/images/d47AH6ptqxtB8eNmxEf2kGfGFgB_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E14
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E15" tvg-logo="http://Originaliptv.com:8000/images/EZp7cKKF4WcckqXoDNcqS6MS35_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E15
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S03 E16" tvg-logo="http://Originaliptv.com:8000/images/wEdsfvgKSfexjgNswU0B7FCy0NT_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S03 E16
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E01" tvg-logo="http://Originaliptv.com:8000/images/a2nKtT0HH5nTTpz8PwNWqrVaC6O_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E02" tvg-logo="http://Originaliptv.com:8000/images/eNsUq0sQ6qBConsCKAGIbWb9PC9_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E03" tvg-logo="http://Originaliptv.com:8000/images/zSSfkVbGuew7fqKrKsMoL7SWpoc_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E04" tvg-logo="http://Originaliptv.com:8000/images/35YNHyysB6kwSoyFUIyPPioJxsp_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E05" tvg-logo="http://Originaliptv.com:8000/images/2KV2SzbiqxegQInYVg3Gb4OpTes_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E06" tvg-logo="http://Originaliptv.com:8000/images/5ODpEkx89wHra9kg0qplzGGZk8n_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E07" tvg-logo="http://Originaliptv.com:8000/images/bUbEzVsajOudY9h7Brq6aKR0t6j_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fear the Walking Dead S04 E08" tvg-logo="http://Originaliptv.com:8000/images/6diVASIxGlI3hVHadFckhnEIotE_small.jpg" group-title="Fear the Walking Dead",Fear the Walking Dead S04 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E01" tvg-logo="http://Originaliptv.com:8000/images/8C2BdeIolxSACcTXCAd8arPasOF_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E02" tvg-logo="http://Originaliptv.com:8000/images/ffp23IstUagPTbCEblRORyz2NRq_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E03" tvg-logo="http://Originaliptv.com:8000/images/h1c9sl8aYK10BjOwIOg43Qn0yYa_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E04" tvg-logo="http://Originaliptv.com:8000/images/pgfAdQdz7ybztvQcyGEj5UXZs7U_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E05" tvg-logo="http://Originaliptv.com:8000/images/4VCxPxItVt2rTOhJuGzERhgy5Bw_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S01 E06" tvg-logo="http://Originaliptv.com:8000/images/dPREyOEs3qBm0o4ZaH5K0T6f2Sk_small.jpg" group-title="Into the Badlands",Into the Badlands S01 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E01" tvg-logo="http://Originaliptv.com:8000/images/knPifKqs32aU0S95UmJrkozN3Zk_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E02" tvg-logo="http://Originaliptv.com:8000/images/56SFkvOXOm2vcJ993VtdaiVlvnV_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E03" tvg-logo="http://Originaliptv.com:8000/images/a1K2GX7MlDrqtEbEcHMTP3XBvnD_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E04" tvg-logo="http://Originaliptv.com:8000/images/22wBKdnaG6MvCGQJBE4S0NqKw9_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E05" tvg-logo="http://Originaliptv.com:8000/images/w2u8y9Z1WfLBcxcUjrcxdlp28ZO_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E06" tvg-logo="http://Originaliptv.com:8000/images/ng1DPdEymipEvhLhzLfXWN8i6i4_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E07" tvg-logo="http://Originaliptv.com:8000/images/R81DLB8h0skiDvk0475uF4Txph_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E08" tvg-logo="http://Originaliptv.com:8000/images/yMjq9kHbuXUKH4OZeFHGASPkzCM_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E09" tvg-logo="http://Originaliptv.com:8000/images/4OjXNLqcj6Ph5tWIbeo2n9dtHvK_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S02 E10" tvg-logo="http://Originaliptv.com:8000/images/9VmcKv4XZH71Q84ejMz8UQ1QxQn_small.jpg" group-title="Into the Badlands",Into the Badlands S02 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E01" tvg-logo="http://Originaliptv.com:8000/images/huadfeyPO8KnlHyt1p0SgoYzru2_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E02" tvg-logo="http://Originaliptv.com:8000/images/mzMAREjF8gH3ZbgQRPprcxh8VRp_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E03" tvg-logo="http://Originaliptv.com:8000/images/92OZszlqxOPSShMVj08bgMqZqvu_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E04" tvg-logo="http://Originaliptv.com:8000/images/8aBnIOAgMNkt404LIWsInQMDqYs_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E05" tvg-logo="http://Originaliptv.com:8000/images/wudMg2csUfqWYcUZ7ytO5ER0tzp_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E06" tvg-logo="http://Originaliptv.com:8000/images/i4sbERw0CQ5pp2JZFin4PtMhvTR_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E07" tvg-logo="http://Originaliptv.com:8000/images/1YuShQ6uPQ3WYaKOUYKhg7s7Sed_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Badlands S03 E08" tvg-logo="http://Originaliptv.com:8000/images/n4JZ4dLf5eDTe3XrewDO7aLcZfH_small.jpg" group-title="Into the Badlands",Into the Badlands S03 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E01" tvg-logo="http://Originaliptv.com:8000/images/2STj5CZwZi4aNa5BA5IP3TV9nku_small.jpg" group-title="The Terror",The Terror S01 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E02" tvg-logo="http://Originaliptv.com:8000/images/9spzYJ3dfYnLDIIDD7yQuwbxpyx_small.jpg" group-title="The Terror",The Terror S01 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E03" tvg-logo="http://Originaliptv.com:8000/images/vCFSNLP4glLfvT3RJ98iYTNPpZ3_small.jpg" group-title="The Terror",The Terror S01 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E04" tvg-logo="http://Originaliptv.com:8000/images/5i9uyNPebTMhCxqLzDSI9hxUYIJ_small.jpg" group-title="The Terror",The Terror S01 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E05" tvg-logo="http://Originaliptv.com:8000/images/1d8KQWNS5hWgEhUL4zyHrlnUYyj_small.jpg" group-title="The Terror",The Terror S01 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E06" tvg-logo="http://Originaliptv.com:8000/images/xvgpQN8oWPBKMmivirnqWU6J59Q_small.jpg" group-title="The Terror",The Terror S01 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E07" tvg-logo="http://Originaliptv.com:8000/images/cCgsnHXnet7IYOLhdaPheYXUmKS_small.jpg" group-title="The Terror",The Terror S01 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10473.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E08" tvg-logo="http://Originaliptv.com:8000/images/jYd4Idpdobf30SCe30nQA8BwNKF_small.jpg" group-title="The Terror",The Terror S01 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E09" tvg-logo="http://Originaliptv.com:8000/images/xhuswtrivC0ERmtDF8O8vp5DOlU_small.jpg" group-title="The Terror",The Terror S01 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Terror S01 E10" tvg-logo="http://Originaliptv.com:8000/images/uQ87RqEo1kSItSyfnIx6fw8tbd2_small.jpg" group-title="The Terror",The Terror S01 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10476.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E01" tvg-logo="http://Originaliptv.com:8000/images/gBi0WoqKFTmY1bJ1XTHefQk22kq_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E01
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10477.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E02" tvg-logo="http://Originaliptv.com:8000/images/bsh5XrZvhOgYALW0j5GtMkttBZp_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E02
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E03" tvg-logo="http://Originaliptv.com:8000/images/uY5D365Z69xLOJXjWFIV5RD82Ds_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E03
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E04" tvg-logo="http://Originaliptv.com:8000/images/h2GZrZqIeRO0ca2eiFn7hnPTLFc_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E04
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E05" tvg-logo="http://Originaliptv.com:8000/images/8IztwvDGQpWwixBnBkYn3NJljOl_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E05
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E06" tvg-logo="http://Originaliptv.com:8000/images/qmqIbjkqNgYfLRj7W7nupEx064y_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E06
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10482.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E07" tvg-logo="http://Originaliptv.com:8000/images/vD1GxYOwqDNKIjWdXSWxiMXRveB_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E07
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10483.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E08" tvg-logo="http://Originaliptv.com:8000/images/wUWZwc9gYGycrxe51lk3Ky9a8Wi_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E08
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10484.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E09" tvg-logo="http://Originaliptv.com:8000/images/f96BWZTPFXO9WdFujOVDHykk37Q_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E09
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10485.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E10" tvg-logo="http://Originaliptv.com:8000/images/skeOPsG179Ku3AUAKvfLKGZGEOd_small.jpg" group-title="Cobra Kai",Cobra Kai S01 E10
+http://ilovetv.pt:8000/series/c6KRfrsMVc/CNxZFakZGf/10486.mp4

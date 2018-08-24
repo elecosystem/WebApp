@@ -31,11 +31,9 @@
   <h1 class="text-center"> Electronics Learning Ecosystem </h1>
   <p>Bootstrap preliminary tests  </p>
   <div class="row">
-    <div class="col-sm-2"></div>
-    <div class="col-sm-8">
-        <img class="img-responsive" src="ele_logo.png"  style="width:500px;height:500px" class = "center">
-    </div>
-    <div class="col-sm-2"></div>
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4">
+    <div class="col-sm-4"></div>
   </div>
 </div>
 

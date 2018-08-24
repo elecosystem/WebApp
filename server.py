@@ -68,7 +68,45 @@ class Root(object):
             return head+" "+str(exlist[int(value)].id + 1) + "</h1>" +"<p> </<p>"+"<img class=\"mx-auto text-center\" src=images/"+str(img_name)+" height=\"220\ witdh=\"520\">"+"<p> </p>"+ exlist[int(value)].expl
 
         @cherrypy.expose
-        def Register(self,value):
+        def Submit(self):
+            return  open("Submit.html","r").read()
+
+        @cherrypy.expose
+        def Netlist(self):
+            return open("netlistsub.html","r").read();
+
+        @cherrypy.expose
+        def netsub(self,Netlist):
+            size = 0
+            all_data=bytearray()
+            while True:
+                data = Netlist.file.read(8192)
+                all_data += data;
+                if not data:
+                    break
+                size += len(data)
+                save = open(Netlist.filename,"wb")
+                save.write(all_data);
+
+            return open("Image.html","r").read()
+
+        @cherrypy.expose
+        def imgsub(self,image):
+            size = 0
+            all_data=bytearray()
+            while True:
+                data = image.file.read(8192)
+                all_data += data;
+                if not data:
+                    break
+                size += len(data)
+                save = open(image.filename,"wb")
+                save.write(all_data);
+
+            return open("form1.html","r").read()
+
+        #@cherrypy.expose
+        #def subform(self,**kwargs):
 
 
 
